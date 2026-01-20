@@ -83,11 +83,6 @@ interests: ["Open Source", "DevOps", "Cloud Infrastructure"]
 ### GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=krishna-kg732&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" alt="GitHub Stats"/>
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=krishna-kg732&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-kg732&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&layout=compact&langs_count=8" alt="Top Languages"/>
 </p>
 
