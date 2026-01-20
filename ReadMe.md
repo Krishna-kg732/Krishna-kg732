@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="./assets/banner.png" alt="Krishna Banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Krishna%20Gupta&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Cloud+Native+Developer+%E2%98%81%EF%B8%8F;Backend+Engineer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%92%BB;Building+Scalable+Systems+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Cloud+Native+Developer;Backend+Engineer;Open+Source+Enthusiast;Building+Scalable+Systems" alt="Typing SVG" />
 
 <br/>
 
@@ -13,7 +13,7 @@
 
 <br/>
 
-### 🎯 Current Focus
+### Current Focus
 
 ```yaml
 project: CloudPlane
@@ -29,7 +29,7 @@ interests: ["Open Source", "DevOps", "Cloud Infrastructure"]
 
 ---
 
-### 🤝 Let's Connect
+### Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/krishna-gupta-a10ba6323/">
@@ -50,35 +50,37 @@ interests: ["Open Source", "DevOps", "Cloud Infrastructure"]
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 <details open>
-<summary><b>💻 Languages & Frameworks</b></summary>
+<summary><b>Languages & Frameworks</b></summary>
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,nodejs,express,powershell&theme=dark" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=go,nodejs,express&theme=dark" alt="Languages"/>
 </p>
 </details>
 
 <details open>
-<summary><b>☁️ Cloud & DevOps</b></summary>
+<summary><b>Cloud & DevOps</b></summary>
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,github,githubactions&theme=dark" alt="Cloud & DevOps"/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions&theme=dark" alt="Cloud & DevOps"/>
 </p>
 </details>
 
 <details open>
-<summary><b>📊 Monitoring & Tools</b></summary>
-<br/🏆 GitHub Trophies
-
+<summary><b>Monitoring & Tools</b></summary>
+<br/>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krishna-kg732&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana,git&theme=dark" alt="Tools"/>
 </p>
+</details>
 
 <br/>
 
-### 📊 GitHub Analytics
+---
+
+### GitHub Analytics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=krishna-kg732&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" alt="GitHub Stats"/>
@@ -86,13 +88,12 @@ interests: ["Open Source", "DevOps", "Cloud Infrastructure"]
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-kg732&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&layout=compact&langs_count=8" alt="Top Languages"/>
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=krishna-kg732&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Contributions"/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-kg732&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&layout=compact&langs_count=8" alt="Top Languages"/>
 </p>
 
 <br/>
 
-### 📈 Contribution Graph
+### Contribution Graph
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=krishna-kg732&custom_title=Krishna's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" alt="Contribution Graph"/>
 
@@ -101,7 +102,7 @@ interests: ["Open Source", "DevOps", "Cloud Infrastructure"]
 ---
 
 <details>
-<summary><b>⚡ Recent Activity</b></summary>
+<summary><b>Recent Activity</b></summary>
 <br/>
 
 <!--START_SECTION:activity-->
@@ -111,16 +112,6 @@ interests: ["Open Source", "DevOps", "Cloud Infrastructure"]
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%">
-
-<br/>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=krishna-kg732&label=Profile%20Views&color=00d9ff&icon=5&pretty=true" alt="Profile Views"/>
-</p>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
