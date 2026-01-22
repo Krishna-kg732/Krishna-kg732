@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120">
+  <defs>
+    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="50%" style="stop-color:#161b22"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+    <linearGradient id="text-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#58a6ff"/>
+      <stop offset="50%" style="stop-color:#79c0ff"/>
+      <stop offset="100%" style="stop-color:#58a6ff"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="120" fill="url(#bg-gradient)"/>
+  
+  <!-- Animated dots -->
+  <g fill="#58a6ff" opacity="0.3">
+    <circle cx="100" cy="30" r="2">
+      <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="200" cy="80" r="1.5">
+      <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="350" cy="40" r="2">
+      <animate attributeName="opacity" values="0.3;0.8;0.3" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="850" cy="35" r="1.5">
+      <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1000" cy="70" r="2">
+      <animate attributeName="opacity" values="0.3;0.8;0.3" dur="1.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1100" cy="25" r="1.5">
+      <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  
+  <!-- Name text -->
+  <text x="600" y="55" text-anchor="middle" font-family="JetBrains Mono, Fira Code, monospace" font-size="32" font-weight="600" fill="url(#text-gradient)">
+    Krishna Gupta
+  </text>
+  
+  <!-- Subtitle -->
+  <text x="600" y="85" text-anchor="middle" font-family="JetBrains Mono, Fira Code, monospace" font-size="14" fill="#8b949e">
+    Cloud Native Developer • Open Source Contributor
+  </text>
+  
+  <!-- Decorative lines -->
+  <line x1="380" y1="100" x2="480" y2="100" stroke="#58a6ff" stroke-width="2" opacity="0.5">
+    <animate attributeName="x1" values="380;400;380" dur="3s" repeatCount="indefinite"/>
+  </line>
+  <line x1="720" y1="100" x2="820" y2="100" stroke="#58a6ff" stroke-width="2" opacity="0.5">
+    <animate attributeName="x2" values="820;800;820" dur="3s" repeatCount="indefinite"/>
+  </line>
+</svg>

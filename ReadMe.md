@@ -1,112 +1,120 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Krishna%20Gupta&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Cloud+Native+Developer;Backend+Engineer;Open+Source+Enthusiast;Building+Scalable+Systems" alt="Typing SVG" />
-
-<br/>
+  <img src="header.svg" width="1200" height="120">
+  <br>
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krishna-kg732&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/krishna-kg732?label=Followers&style=for-the-badge&color=00d9ff&labelColor=1a1b27" alt="Followers"/>
+  <a href="https://www.linkedin.com/in/krishna-gupta-a10ba6323/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/KG_CodeMode"><img src="https://img.shields.io/badge/KG__CodeMode-191919?style=flat&logo=X&logoColor=white"/></a>
+  <a href="mailto:krishnagupta.kg2k6@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
-<br/>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishna-kg732/krishna-kg732/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krishna-kg732/krishna-kg732/output/github-snake.svg"/>
+    <img alt="github-snake" src="https://raw.githubusercontent.com/krishna-kg732/krishna-kg732/output/github-snake-dark.svg"/>
+  </picture>
+</p>
 
-### Current Focus
+---
 
-```yaml
-project: CloudPlane
-role: Cloud Native Developer
-learning:
-  - GoLang for high-performance backends
-  - Kubernetes & Container Orchestration
-  - Distributed Systems Architecture
-interests: ["Open Source", "DevOps", "Cloud Infrastructure"]
+```go
+// currently working on
+package main
+
+type CloudNativeDev struct {
+    Project   string   `json:"cloudplane"`
+    Stack     []string `json:"golang,kubernetes,aws"`
+    Learning  []string `json:"distributed-systems,platform-engineering"`
+    OpenTo    string   `json:"collaboration on cloud-native projects"`
+    FunFact   string   `json:"I debug with fmt.Println 🐛"`
+}
 ```
 
-<br/>
+---
+
+<div align="center">
+
+### `Tech Stack`
+
+**Languages & Runtime**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Cloud & Infrastructure**
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+**Observability**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
 ---
 
-### Connect With Me
+### `Metrics`
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/krishna-gupta-a10ba6323/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/KG_CodeMode">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X"/>
-  </a>
-  <a href="https://instagram.com/itzame_kg">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
-  </a>
-  <a href="mailto:krishnagupta.kg2k6@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
-  </a>
-</p>
-
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=krishna-kg732&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&hide_title=true&hide_rank=true&include_all_commits=true">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=krishna-kg732&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&hide_title=true&hide_rank=true&include_all_commits=true"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=krishna-kg732&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=8b949e&sideNums=8b949e&dates=8b949e">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=krishna-kg732&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=8b949e&sideNums=8b949e&dates=8b949e"/>
+</picture>
 
 ---
 
-### Tech Stack & Tools
+### `💭 Random Dev Quote`
 
-<details open>
-<summary><b>Languages & Frameworks</b></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,nodejs,express&theme=dark" alt="Languages"/>
-</p>
-</details>
-
-<details open>
-<summary><b>Cloud & DevOps</b></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions&theme=dark" alt="Cloud & DevOps"/>
-</p>
-</details>
-
-<details open>
-<summary><b>Monitoring & Tools</b></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana,git&theme=dark" alt="Tools"/>
-</p>
-</details>
-
-<br/>
-
----
-
-### GitHub Analytics
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-kg732&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&layout=compact&langs_count=8" alt="Top Languages"/>
-</p>
-
-<br/>
-
-### Contribution Graph
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=krishna-kg732&custom_title=Krishna's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" alt="Contribution Graph"/>
-
-<br/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%"/>
 
 ---
 
 <details>
-<summary><b>Recent Activity</b></summary>
+<summary><b>🎯 Current Goals</b></summary>
 <br/>
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+| Goal | Status |
+|:-----|:------:|
+| Contribute to CNCF projects | 🔄 |
+| Build CloudPlane platform | 🔄 |
+| Master distributed systems | 📚 |
+| LFX Mentorship | 🎯 |
 
 </details>
 
+<details>
+<summary><b>⚡ Quick Facts</b></summary>
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+- 🔭 Building **CloudPlane** - a cloud-native platform
+- 🌱 Deep diving into **Go** and **K8s internals**
+- 👯 Looking to collaborate on **open source** projects
+- 💬 Let's talk about **cloud architecture** & **DevOps**
+- 🎮 When AFK: Gaming, Coffee, Repeat ☕
+
+</details>
+
+<details>
+<summary><b>🏆 GitHub Trophies</b></summary>
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=krishna-kg732&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" width="80%"/>
+
+</details>
+
+---
+
+<sub>✨ Building the future, one commit at a time</sub>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=krishna-kg732&style=flat-square&color=58a6ff&label=visitors" alt="Profile Views"/>
 
 </div>
