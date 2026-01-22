@@ -11,9 +11,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishna-kg732/krishna-kg732/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krishna-kg732/krishna-kg732/output/github-snake.svg"/>
-    <img alt="github-snake" src="https://raw.githubusercontent.com/krishna-kg732/krishna-kg732/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Krishna-kg732/Krishna-kg732/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Krishna-kg732/Krishna-kg732/output/github-snake.svg"/>
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Krishna-kg732/Krishna-kg732/output/github-snake-dark.svg"/>
   </picture>
 </p>
 
@@ -59,14 +59,8 @@ type CloudNativeDev struct {
 
 ### `Metrics`
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=krishna-kg732&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&hide_title=true&hide_rank=true&include_all_commits=true">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=krishna-kg732&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&hide_title=true&hide_rank=true&include_all_commits=true"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=krishna-kg732&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=8b949e&sideNums=8b949e&dates=8b949e">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=krishna-kg732&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=8b949e&sideNums=8b949e&dates=8b949e"/>
-</picture>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Krishna-kg732&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&include_all_commits=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Krishna-kg732&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=8b949e&sideNums=8b949e&dates=8b949e"/>
 
 ---
 
@@ -105,7 +99,7 @@ type CloudNativeDev struct {
 <summary><b>🏆 GitHub Trophies</b></summary>
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=krishna-kg732&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" width="80%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Krishna-kg732&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" width="80%"/>
 
 </details>
 
@@ -115,6 +109,6 @@ type CloudNativeDev struct {
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=krishna-kg732&style=flat-square&color=58a6ff&label=visitors" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Krishna-kg732&style=flat-square&color=58a6ff&label=visitors" alt="Profile Views"/>
 
 </div>
