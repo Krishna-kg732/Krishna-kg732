@@ -19,7 +19,7 @@
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+CloudPlane+%E2%80%94+multi-cloud+ML+control+plane;Kubeflow+Trainer+v2+contributor;Go+%C2%B7+Kubernetes+%C2%B7+Distributed+Systems;Obsessed+with+inference+infrastructure)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+CloudPlane+%E2%80%94+multi-cloud+control+plane;Open+source+contributor;Go+%C2%B7+Kubernetes+%C2%B7+Distributed+Systems;Obsessed+with+inference+and+training++infrastructure)](https://git.io/typing-svg)
 
 </div>
 
