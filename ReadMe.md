@@ -25,8 +25,8 @@ package main
 
 type CloudNativeDev struct {
     Project   string   `json:"cloudplane"`
-    Stack     []string `json:"golang,kubernetes,aws"`
-    Learning  []string `json:"distributed-systems,platform-engineering"`
+    Stack     []string `json:"golang,python,kubernetes,aws"`
+    Learning  []string `json:"distributed-systems,ML-Infra"`
     OpenTo    string   `json:"collaboration on cloud-native projects"`
     FunFact   string   `json:"I debug with fmt.Println 🐛"`
 }
