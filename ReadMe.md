@@ -1,114 +1,110 @@
 <div align="center">
-  <img src="header.svg" width="1200" height="120">
-  <br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Krishna-kg732/Krishna-kg732/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Krishna-kg732/Krishna-kg732/output/github-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Krishna-kg732/Krishna-kg732/output/github-snake-dark.svg"/>
+</picture>
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║        ██╗  ██╗ ██████╗                                      ║
+║        ██║ ██╔╝██╔════╝                                      ║
+║        █████╔╝ ██║  ███╗                                     ║
+║        ██╔═██╗ ██║   ██║                                     ║
+║        ██║  ██╗╚██████╔╝   Krishna Gupta                     ║
+║        ╚═╝  ╚═╝ ╚═════╝    ML Infra · Distributed Systems   ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+CloudPlane+%E2%80%94+multi-cloud+ML+control+plane;Kubeflow+Trainer+v2+contributor;Go+%C2%B7+Kubernetes+%C2%B7+Distributed+Systems;Obsessed+with+inference+infrastructure)](https://git.io/typing-svg)
+
 </div>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/krishna-gupta-a10ba6323/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/KG_CodeMode"><img src="https://img.shields.io/badge/KG__CodeMode-191919?style=flat&logo=X&logoColor=white"/></a>
-  <a href="mailto:krishnagupta.kg2k6@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Krishna-kg732/Krishna-kg732/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Krishna-kg732/Krishna-kg732/output/github-snake.svg"/>
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Krishna-kg732/Krishna-kg732/output/github-snake-dark.svg"/>
-  </picture>
-</p>
 
 ---
 
-```go
-// currently working on
-package main
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=Krishna-kg732&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=8b949e&icon_color=00D9FF&include_all_commits=true&rank_icon=github"/>
 
-type CloudNativeDev struct {
-    Project   string   `json:"cloudplane"`
-    Stack     []string `json:"golang,python,kubernetes,aws"`
-    Learning  []string `json:"distributed-systems,ML-Infra"`
-    OpenTo    string   `json:"collaboration on cloud-native projects"`
-    FunFact   string   `json:"I debug with fmt.Println 🐛"`
-}
+### `$ whoami`
+
+Sophomore obsessed with the infrastructure layer underneath ML — how training jobs scale, how inference stays fast under load, and how to make multi-cloud not terrible.
+
+- 🔧 **Building** [CloudPlane](https://github.com/Krishna-kg732/cloudPlane) — a multi-cloud control plane for training workloads & inference deployment in Go
+- 🛠 **Contributed** distributed XGBoost runtime support to [Kubeflow Trainer v2](https://github.com/kubeflow/trainer)
+- 📡 **Exploring** GPU cold-start costs, bursty autoscaling, vLLM/TGI abstraction
+- 🎯 **Next** LFX Mentorship · CNCF contributions
+
+<br clear="right"/>
+
+---
+
+### `$ cat stack.yaml`
+
+```yaml
+languages:
+  primary:   [Go, Python]
+  secondary: [Node.js, Bash]
+
+infrastructure:
+  orchestration:   [Kubernetes, Helm, Terraform]
+  cloud:           [AWS (EKS, EC2 GPU, S3, IAM), GCP]
+  containers:      [Docker, containerd]
+
+ml_serving:
+  runtimes:        [vLLM, TGI, Triton Inference Server]
+  training:        [PyTorch DDP, XGBoost Distributed, Horovod]
+  frameworks:      [Kubeflow, KubeRay]
+
+observability:
+  metrics:         [Prometheus, Grafana]
+  tracing:         [OpenTelemetry]
+  cloud_native:    [CloudWatch, CloudTrail]
+
+currently_learning:
+  - GPU scheduling internals
+  - Multi-cloud capacity arbitrage
+  - Inference autoscaling strategies
 ```
 
 ---
 
+### `$ git log --oneline --graph`
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+### `$ curl metrics.github.com/Krishna-kg732`
+
 <div align="center">
 
-### `Tech Stack`
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-kg732&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=8b949e&langs_count=6"/>
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=Krishna-kg732&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=8b949e&currStreakNum=8b949e&sideNums=8b949e&dates=8b949e"/>
 
-**Languages & Runtime**
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Cloud & Infrastructure**
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-
-**Observability**
-
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+</div>
 
 ---
 
-### `Metrics`
+### `$ ping krishna`
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Krishna-kg732&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&include_all_commits=true"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Krishna-kg732&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=8b949e&sideNums=8b949e&dates=8b949e"/>
+<div align="center">
 
----
-
-### `💭 Random Dev Quote`
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%"/>
-
----
-
-<details>
-<summary><b>🎯 Current Goals</b></summary>
-<br/>
-
-| Goal | Status |
-|:-----|:------:|
-| Contribute to CNCF projects | 🔄 |
-| Build CloudPlane platform | 🔄 |
-| Master distributed systems | 📚 |
-| LFX Mentorship | 🎯 |
-
-</details>
-
-<details>
-<summary><b>⚡ Quick Facts</b></summary>
-<br/>
-
-- 🔭 Building **CloudPlane** - a cloud-native platform
-- 🌱 Deep diving into **Go** and **K8s internals**
-- 👯 Looking to collaborate on **open source** projects
-- 💬 Let's talk about **cloud architecture** & **DevOps**
-- 🎮 When AFK: Gaming, Coffee, Repeat ☕
-
-</details>
-
-<details>
-<summary><b>🏆 GitHub Trophies</b></summary>
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Krishna-kg732&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" width="80%"/>
-
-</details>
-
----
-
-<sub>✨ Building the future, one commit at a time</sub>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-gupta-a10ba6323/)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KG_CodeMode)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishnagupta.kg2k6@gmail.com)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Krishna-kg732&style=flat-square&color=58a6ff&label=visitors" alt="Profile Views"/>
+```
+PING krishna... response time: coffee dependent ☕
+packets transmitted: ∞  |  packets received: most  |  packet loss: only on Mondays
+```
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Krishna-kg732&style=flat-square&color=00D9FF&label=profile+views" alt="Profile Views"/>
 
 </div>
